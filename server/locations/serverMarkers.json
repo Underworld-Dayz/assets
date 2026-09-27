@@ -16,6 +16,7 @@
           "id": "2",
           "name": "Палыч",
           "description": "Локация в основном для ловли и продажи рыбы, так же вы попадете сюда по сюжетной линии квестов.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/palych.png",
           "tooltip": "left",
           "color": "#32a7e0",
           "x": 278,
@@ -25,24 +26,17 @@
           "id": "3",
           "name": "Леший",
           "description": "Место для продажи шкур животных и мяса, так же можно взять квесты.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/leshy.png",
           "tooltip": "left",
           "color": "#af9670",
           "x": 1174,
           "z": 4977
         },
         {
-          "id": "4",
-          "name": "Зеленая Гора (автотрейдер)",
-          "description": "Место где вы можете приобрести транспортное средство и запчасти к нему",
-          "tooltip": "top",
-          "color": "#1ab97e",
-          "x": 3702,
-          "z": 5986
-        },
-        {
           "id": "5",
           "name": "Лагерь",
           "description": "Начало вашего пути на сервере Underworld! Первые квесты взять можно у нпс в доме, на локации есть колонка с водой у выхода.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/lager.png",
           "tooltip": "top",
           "color": "#1117b9",
           "x": 11748,
@@ -52,6 +46,7 @@
           "id": "6",
           "name": "Культисты",
           "description": "Место где можно продать ваш лут с монстров.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/cult.png",
           "tooltip": "left",
           "color": "#4B3E87",
           "x": 1611,
@@ -65,7 +60,8 @@
         {
           "id": "101",
           "name": "Красностав",
-          "description": "Простой уровень. Данж для средних и начинающих игроков.\nСекретный военный объект на территории аэродрома красостав. Рядом после катастрофы расположилось кладбище техники.",
+          "description": "Секретный военный объект на территории аэродрома красостав. Рядом после катастрофы расположилось кладбище техники.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/krasno.png",
           "tooltip": "bottom",
           "color": "#CDF04B",
           "x": 12111,
@@ -74,11 +70,32 @@
         {
           "id": "102",
           "name": "Алькатрас",
-          "description": "Сложный уровень. Данж для продвинутых игроков.\nОгромное мегалитическое сооружение неизвестного происхождения. Возможно имеет отношение к культистам.",
+          "description": "Огромное мегалитическое сооружение неизвестного происхождения. Возможно имеет отношение к культистам.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/alkatras.png",
           "tooltip": "top",
           "color": "#c50204",
           "x": 2685,
           "z": 1313
+        },
+        {
+          "id": "103",
+          "name": "Ганзир",
+          "description": "Древний город крепость, появившийся после катастрофы на территории Северо-западного аэродрома. Внутри и снаружи можно найти странные сооружения неизвестного назначения, а также следы противостояния и, возможно, осады города. Кишит демонами, однако на территории можно найти старинные постройки, похожие на человеческие.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/ganzir.png",
+          "tooltip": "top",
+          "color": "#eeae1c",
+          "x": 5013,
+          "z": 9197
+        },
+        {
+          "id": "103",
+          "name": "Лесная деревня",
+          "description": "Небольшое поселение обитателей нижнего мира. Было обнаружено после катастрофы в лесах недалеко от Старого Собора. Населено демонами, однако неизвестно, являются ли они его жителями или охраной, или же они просто захватили его.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/village.png",
+          "tooltip": "top",
+          "color": "#495535",
+          "x": 5013,
+          "z": 9197
         }
       ]
     }
