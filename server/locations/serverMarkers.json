@@ -17,7 +17,7 @@
           "name": "Палыч",
           "description": "Локация в основном для ловли и продажи рыбы, так же вы попадете сюда по сюжетной линии квестов.",
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/palych.png",
-          "tooltip": "left",
+          "tooltip": "top",
           "color": "#32a7e0",
           "x": 278,
           "z": 6594
@@ -27,7 +27,7 @@
           "name": "Леший",
           "description": "Место для продажи шкур животных и мяса, так же можно взять квесты.",
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/leshy.png",
-          "tooltip": "left",
+          "tooltip": "top",
           "color": "#af9670",
           "x": 1174,
           "z": 4977
@@ -47,7 +47,7 @@
           "name": "Культисты",
           "description": "Место где можно продать ваш лут с монстров.",
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/cult.png",
-          "tooltip": "left",
+          "tooltip": "top",
           "color": "#4B3E87",
           "x": 1611,
           "z": 8780
@@ -62,7 +62,7 @@
           "name": "Красностав",
           "description": "Секретный военный объект на территории аэродрома красостав. Рядом после катастрофы расположилось кладбище техники.",
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/krasno.png",
-          "tooltip": "bottom",
+          "tooltip": "top",
           "color": "#CDF04B",
           "x": 12111,
           "z": 12671
