@@ -97,12 +97,24 @@
           "badges": [{"id" : 1, "label" : "Данж", "color": "#d29922"},
             {"id" : 2, "label" : "Средняя", "color": "#d29922"}],
           "tooltip": "top",
-          "color": "#eeae1c",
+          "color": "#a74902",
           "x": 5013,
           "z": 9197
         },
         {
           "id": "104",
+          "name": "Депо",
+          "description": "Железнодорожное депо, в котором после катастрофы военные пытались организовать защищенную зону для выживших. Однако что-то пошло не так, и демоны смогли прорваться внутрь.",
+          "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/depo.png",
+          "badges": [{"id" : 1, "label" : "Данж", "color": "#d29922"},
+            {"id" : 2, "label" : "Средняя", "color": "#d29922"}],
+          "tooltip": "top",
+          "color": "#87978E",
+          "x": 13130,
+          "z": 7092
+        },
+        {
+          "id": "105",
           "name": "Лесная деревня",
           "description": "Небольшое поселение обитателей нижнего мира. Было обнаружено после катастрофы в лесах недалеко от Старого Собора. Населено демонами, однако неизвестно, являются ли они его жителями или охраной, или же они просто захватили его.",
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/village.png",
