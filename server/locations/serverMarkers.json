@@ -113,7 +113,45 @@
           "x": 5783,
           "z": 5940
         }
-      ]
+    ]
+    },
+    {
+        "title": "Аномальные зоны",
+        "markers": [
+            {
+                "id": "201",
+                "name": "Аномальная зона Альфа",
+                "description": "После катастрофы в данной области наблюдается повышенный уровень аномальной активности. Различные аномалии обнаружены в зоне. Для их обнаружения может потребоваться специальное оборудование.",
+                "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/alpha.png",
+                "badges": [{"id" : 1, "label" : "Аномалии", "color": "#5f2b5f"}],
+                "tooltip": "top",
+                "color": "#5f2b5f",
+                "x": 7472,
+                "z": 11528
+            },
+            {
+                "id": "202",
+                "name": "Аномальная зона Бета",
+                "description": "После катастрофы в данной области наблюдается повышенный уровень аномальной активности. Различные аномалии обнаружены в зоне. Для их обнаружения может потребоваться специальное оборудование.",
+                "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/beta.png",
+                "badges": [{"id" : 1, "label" : "Аномалии", "color": "#5f2b5f"}],
+                "tooltip": "top",
+                "color": "#5f2b5f",
+                "x": 11481,
+                "z": 11336
+            },
+            {
+                "id": "203",
+                "name": "Аномальная зона Гамма",
+                "description": "После катастрофы в данной области наблюдается повышенный уровень аномальной активности. Различные аномалии обнаружены в зоне. Для их обнаружения может потребоваться специальное оборудование.",
+                "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/gamma.png",
+                "badges": [{"id" : 1, "label" : "Аномалии", "color": "#5f2b5f"}],
+                "tooltip": "top",
+                "color": "#5f2b5f",
+                "x": 563,
+                "z": 12904
+            }
+        ]
     }
 ]
 
