@@ -9,8 +9,8 @@
           "imageSrc": "https://raw.githubusercontent.com/Underworld-Dayz/assets/refs/heads/main/server/locations/altar.png",
           "tooltip": "top",
           "color": "#3EB58C",
-          "x": 8140.8,
-          "z": 6297.6
+          "x": 8165,
+          "z": 9088
         },
         {
           "id": "2",
